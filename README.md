@@ -2,10 +2,9 @@
 A short description of my education and projects.
 
   B.Sc. 2018. Technical University of Kosice, Electrical Engineering. 
-  Thesis: The use of digital filters in the control of a synchronous motor with permanent magnets
-              Short description: The goal of this bachelor thesis is to process an overview of selected types of basic filters for use in controlling synchronous motor with permanent magnets.
-                                 Advanced method of removing noise, specifically the usage of Kalman filter, is described and implemented in the conclusion of this thesis.
-              Developed parts: SW for FOC and digital filters. (Based on TI TMS320 DSP)
+    - Thesis: The use of digital filters in the control of a synchronous motor with permanent magnets.
+    - Short description: The goal of this bachelor thesis is to process an overview of selected types of basic filters for use in controlling synchronous motor with permanent magnets. Advanced method of removing noise, specifically the usage of Kalman filter, is described and implemented in the conclusion of this thesis.
+    - Developed parts: SW for FOC and digital filters. (Based on TI TMS320 DSP)
 
   M.Sc. 2020. Technical University of Kosice, Electrical Engineering. 
               Thesis: Implementation of the EtherCAT communication bus in a modular converter for actuators
