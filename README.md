@@ -17,6 +17,10 @@ A short description of my education and projects.
   - Developed parts: Design of planar transformer based on required parameters of multiport converter. SW for converter for power control and communication between other ports. (Based on TI TMS 320)
             
 Author and co-author of several publications focusing on electric drives and power electronics. Find "Adrian Marcinek" at IEEE Xplore.
+Support for the following diploma theses: 
+  - Electronic vehicle simulator (opponent)
+  - Converters with high efficiency based on GaN and SiC (opponent)
+  - CAN communication bus in servo drives (consultant)
 
 Other projects during education: 
 
@@ -28,5 +32,8 @@ Other projects during education:
 Projects as self-employed/freelancer:
 
   - H-Bridge for department exercises: Development of power part of H-Bridge (60V/10A). Controlled by RT-Lab. Developed for university department.
-  - Vision system for observation: Development of supply and control board for three system elements. Development HW and SW part for communication between system elements by UART, RS422, RS232. (Based on ATMEL MCU)
-  - HMI panel with integrated buttons: Development of supply and control board. Control board with buttons interface, UART interface for display and CAN connectivity for other systems. (Based on STM32 and 7inch LCD TFT)
+  - Vision system for observation: Development of supply and control board for vision system consist of three elements. Development HW and SW part for communication between system elements by UART, RS422, RS232. (Based on ATMEL MCU)
+  - HMI panel with physical buttons: Development of supply and control board. Control board with buttons interface, UART interface for display and CAN connectivity for other systems. (Based on STM32 and 7inch LCD TFT)
+  - HW for BT1120 interface: Hardware for connection between thermal camera with BT1120 interface and HiSilicon SOC.
+  - SW for merger video from two cameras and send it via RTSP stream to PC. (Based on HiSilicon SOC)
+  - 
