@@ -36,4 +36,8 @@ Projects as self-employed/freelancer:
   - HMI panel with physical buttons: Development of supply and control board. Control board with buttons interface, UART interface for display and CAN connectivity for other systems. (Based on STM32 and 7inch LCD TFT)
   - HW for BT1120 interface: Hardware for connection between thermal camera with BT1120 interface and HiSilicon SOC.
   - SW for merger video from two cameras and send it via RTSP stream to PC. (Based on HiSilicon SOC)
-  - 
+  - Robotic workplace for packaging snack bars to boxes - team member. Calculation of the electric motor and drive for the conveyor, programming and simulation verification of the robotic arm Fanuc LR Mate 200iD
+  - [still in progress] Retrofit old Brother TC221 three axis milling center with 10 pockets in tool changer. Full HW and SW design (LinuxCNC + MESA cards, Digitax M751 drives for all axis, design of PCB for old motor sensor emulation, operator panel with buttons, etc...)
+
+
+Detailed information about projects in folders.
