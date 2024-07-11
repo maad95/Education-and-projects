@@ -1,5 +1,4 @@
 # Education and projects
-A short description of my education and projects.
 
   B.Sc. - 2018. Technical University of Kosice, Electrical Engineering:
   - Thesis: The use of digital filters in the control of a synchronous motor with permanent magnets.
