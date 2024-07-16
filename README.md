@@ -10,7 +10,7 @@
   - Short description: The aim of this thesis is to verify implementation possibilities of communication bus EtherCAT for modular servo drive for an actuator, which main computing member is a dual-core microcontroller from a C2000 family dedicated for system control in real-time.
   - Developed parts: Simple HW for connection between EtherCat module and modular servo drive. SW for transfer data between EtherCat module (Based on Beckhoff chip + TI TMS320 DSP)
 
-  Ph.D. 2023. Technical University of Kosice, Electrical Engineering:
+  Ph.D. - 2023. Technical University of Kosice, Electrical Engineering:
   - Thesis: Control of power converters in multiport connection
   - Short description: The thesis describes several types of topologies of power multiport converters and points out the possibilities of their management and presents the topology of a multiport converter based on several transformers with parallel connected secondary windings, which is analyzed for both harmonic and non-harmonic quantities.
   - Developed parts: Design of planar transformer based on required parameters of multiport converter. SW for converter for power control and communication between other ports. (Based on TI TMS 320)
