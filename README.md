@@ -8,7 +8,7 @@
   M.Sc. - 2020. Technical University of Kosice, Electrical Engineering:
   - Thesis: Implementation of the EtherCAT communication bus in a modular converter for actuators
   - Short description: The aim of this thesis is to verify implementation possibilities of communication bus EtherCAT for modular servo drive for an actuator, which main computing member is a dual-core microcontroller from a C2000 family dedicated for system control in real-time.
-  - Developed parts: Simple HW for connection between EtherCat module and modular servo drive. SW for transfer data between EtherCat module (Based on Beckhoff chip + TI TMS320 DSP)
+  - Developed parts: Simple HW for connection between EtherCat module and modular servo drive. SW for transfer data between EtherCat module (Based on Beckhoff IC + TI TMS320 DSP)
 
   Ph.D. - 2023. Technical University of Kosice, Electrical Engineering:
   - Thesis: Control of power converters in multiport connection
