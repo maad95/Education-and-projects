@@ -17,7 +17,7 @@
             
 Author and co-author of several publications focusing on electric drives and power electronics. Find "Adrian Marcinek" at IEEE Xplore.
 Support for the following diploma theses: 
-  - Electronic vehicle simulator (opponent)
+  - Electronic simulator of vehicle (opponent)
   - Converters with high efficiency based on GaN and SiC (opponent)
   - CAN communication bus in servo drives (consultant)
 
