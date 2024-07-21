@@ -15,7 +15,7 @@ As team member of this project, I worked on the following taskt:
   - Design of pneumatic circuit of workplace
 
 
-Design of conveyor for snack bars align (internally called also "reloader"):
+Design of conveyor for snack bars align (in project also called "reloader"):
 ![VYHYBKA OBR11](https://github.com/user-attachments/assets/709048f5-b67e-489f-b12b-08bd235cdb87)
 
 Work of real conveyor:
