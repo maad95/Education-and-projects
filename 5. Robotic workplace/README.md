@@ -14,24 +14,27 @@ As team member of this project, I worked on the following taskt:
   - Design of electrical circuit of some parts of workplace
   - Design of pneumatic circuit of workplace
 
-Design of conveyor for snack bars align (internally called also "reloader")
+
+Design of conveyor for snack bars align (internally called also "reloader"):
 ![VYHYBKA OBR11](https://github.com/user-attachments/assets/709048f5-b67e-489f-b12b-08bd235cdb87)
 
-Work of real conveyor
-https://github.com/user-attachments/assets/b9c9ca71-c18a-45f3-ab03-47628609146e
+Work of real conveyor:
 
+https://github.com/user-attachments/assets/4cc6e673-af59-485e-973d-46275509a0e8
 
-Some pictures of workcell
+Onboard scope from Digitax shown current Iq, speed and position during full load:
+![PosReg3000RPMLoaded](https://github.com/user-attachments/assets/84016715-8c76-4ade-b3c4-893517dd3a54)
+
+Some pictures of workcell:
 ![workcell_transp](https://github.com/user-attachments/assets/06fe2e31-314e-4cda-ad67-8268410d8961)
 ![workcell_front_right_transp](https://github.com/user-attachments/assets/2a6da1b2-a1b5-467a-abe0-fd02358c4fee)
 ![workcell_left_transp](https://github.com/user-attachments/assets/809d1300-6268-4137-a785-781dc32d18ec)
 
-Video from ROBOGUIDE software - verification of workcell dimensions
+Video from ROBOGUIDE software - verification of workcell dimensions:
 
 https://github.com/user-attachments/assets/1f621725-2631-434b-adb7-4c2c14c08e76
 
+Work of full production line - box conveyor, snack bar conveyor, reloader, robot:
 
-Requirements:
-  - 
-  - Merge two workplaces to one based one dimensional requirements
-  - 
+https://github.com/user-attachments/assets/8a9a3b97-c8d0-4087-a9bf-c55d98a3a3a7
+
