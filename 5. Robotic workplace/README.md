@@ -14,8 +14,21 @@ As team member of this project, I worked on the following taskt:
   - Design of electrical circuit of some parts of workplace
   - Design of pneumatic circuit of workplace
 
-Design 
+Design of conveyor for snack bars align (internally called also "reloader")
 ![VYHYBKA OBR11](https://github.com/user-attachments/assets/709048f5-b67e-489f-b12b-08bd235cdb87)
+
+Work of real conveyor
+https://github.com/user-attachments/assets/b9c9ca71-c18a-45f3-ab03-47628609146e
+
+
+Some pictures of workcell
+![workcell_transp](https://github.com/user-attachments/assets/06fe2e31-314e-4cda-ad67-8268410d8961)
+![workcell_front_right_transp](https://github.com/user-attachments/assets/2a6da1b2-a1b5-467a-abe0-fd02358c4fee)
+![workcell_left_transp](https://github.com/user-attachments/assets/809d1300-6268-4137-a785-781dc32d18ec)
+
+Video from ROBOGUIDE software - verification of workcell dimensions
+
+https://github.com/user-attachments/assets/1f621725-2631-434b-adb7-4c2c14c08e76
 
 
 Requirements:
