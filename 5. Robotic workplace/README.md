@@ -23,7 +23,7 @@ Work of real conveyor:
 
 https://github.com/user-attachments/assets/4cc6e673-af59-485e-973d-46275509a0e8
 
-Onboard scope from Digitax shown current Iq, speed and position during full load:
+Onboard scope from Digitax shown current Iq, speed and position during position change (full load):
 ![PosReg3000RPMLoaded](https://github.com/user-attachments/assets/84016715-8c76-4ade-b3c4-893517dd3a54)
 
 Some pictures of workcell:
