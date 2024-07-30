@@ -13,6 +13,7 @@ During my analysis of system, my friend completely disassembled and overhauled t
 Therefore, there was a long wait for new ball guides and ball screws... (approx. 3 months)
 
 Half disassembled TC221 with new ball guides and new ball screws:
+
 ![IMG-20230904-WA0000](https://github.com/user-attachments/assets/9a8be5c7-bccd-4e92-b42c-012506c3f2d0)
 
 After many long sleepless nights as a new control system was selected LinuxCNC, which main components are: motion controller, IO controller, task executor and GUI.
