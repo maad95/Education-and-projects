@@ -1,4 +1,4 @@
-Development of both, hardware (electrical) and software part for retrofit old Brother TC221. This center is originally marked as "tapping", but in the result should be fully usable as milling center. 
+![IMG_20240112_204816](https://github.com/user-attachments/assets/2cc8972b-6db4-4df2-9ea3-b9815f20b976)Development of both, hardware (electrical) and software part for retrofit old Brother TC221. This center is originally marked as "tapping", but in the result should be fully usable as milling center. 
 The initial idea was to replace only the control system (old Brother system) with respect the old servomotors and servo drives. 
 
 First picture of center at home:
@@ -25,8 +25,18 @@ New system HW (electrical) and SW part composed of:
   - MPG jog pendant [connected to operator panel]
   - Drives for all axis were left original ((not for long time...))
 
-After axis regulator tunning and first test of axis feed rate, 
+After tuning drives regulators for axes and first test of feed rate, several problems with original drives appeared. Drive for axis Y stopped responding as a first, after short time, equal situation occured at drive for axis X. By measuring with oscilloscope it was found that sawtooth wave is OK, but reference value for sawtooth wave always exceeded the maximum value. This state could not be changed even by adjusting the trimmers on PCB board. Maybe problem was in hybrid ICs for PWM generation, but these were not possible to buy. 
 
+Old drive for all axes (X, Y, Z) in one PCB board: 
+![IMG-20221112-WA0002](https://github.com/user-attachments/assets/0ebe3f6e-58ed-4c30-9ace-1e9745b85bce)
+
+It was clearly recognizable which part of PCB control which axis:
+![IMG_20240112_204816](https://github.com/user-attachments/assets/d6bd2f2e-308b-4cf8-9c98-776d204179c1)
+
+Pictures of integrated three-phase bridge with IGBT, IGBT driver, DC-bus capacitors:
+![IMG_20240112_222519](https://github.com/user-attachments/assets/3ffc4ce2-baa1-4933-bf83-97e722ae29f0)
+![IMG_20240112_222543](https://github.com/user-attachments/assets/18f5b28e-3490-489b-9516-dbab0dcdab1a)
+![IMG_20240112_222550](https://github.com/user-attachments/assets/99a71e0e-5a0a-4f73-8334-96fe6b7286f1)
 
 
 Retrofit old Brother TC221 three axis milling center with 10 pockets in tool changer. Full HW and SW design (LinuxCNC + MESA cards, Digitax M751 drives for all axis, design of PCB for old motor sensor emulation, operator panel with buttons, etc...)
