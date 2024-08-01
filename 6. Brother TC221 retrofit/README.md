@@ -1,4 +1,4 @@
-![IMG_20240112_204816](https://github.com/user-attachments/assets/2cc8972b-6db4-4df2-9ea3-b9815f20b976)Development of both, hardware (electrical) and software part for retrofit old Brother TC221. This center is originally marked as "tapping", but in the result should be fully usable as milling center. 
+Development of both, hardware (electrical) and software part for retrofit old Brother TC221. This center is originally marked as "tapping", but in the result should be fully usable as milling center. 
 The initial idea was to replace only the control system (old Brother system) with respect the old servomotors and servo drives. 
 
 First picture of center at home:
@@ -33,10 +33,15 @@ Old drive for all axes (X, Y, Z) in one PCB board:
 It was clearly recognizable which part of PCB control which axis:
 ![IMG_20240112_204816](https://github.com/user-attachments/assets/d6bd2f2e-308b-4cf8-9c98-776d204179c1)
 
-Pictures of integrated three-phase bridge with IGBT, IGBT driver, DC-bus capacitors:
+Pictures of integrated three-phase bridge with IGBT, IGBT driver and DC-bus capacitors:
 ![IMG_20240112_222519](https://github.com/user-attachments/assets/3ffc4ce2-baa1-4933-bf83-97e722ae29f0)
 ![IMG_20240112_222543](https://github.com/user-attachments/assets/18f5b28e-3490-489b-9516-dbab0dcdab1a)
 ![IMG_20240112_222550](https://github.com/user-attachments/assets/99a71e0e-5a0a-4f73-8334-96fe6b7286f1)
 
+For spindle was retained original drive. There was no problem with regulator tuning or any speed: 
+![IMG-20221112-WA0003](https://github.com/user-attachments/assets/7f65a79f-37d5-410a-ac0e-c2a08f534725)
 
+After one week of measuring and finding problem in old axes drive, we made decision with my friend - for reliable operation of milling center is necessary use new drives for all axes! 
+Selected drives was Digitax M751 from Control tecn
+  
 Retrofit old Brother TC221 three axis milling center with 10 pockets in tool changer. Full HW and SW design (LinuxCNC + MESA cards, Digitax M751 drives for all axis, design of PCB for old motor sensor emulation, operator panel with buttons, etc...)
