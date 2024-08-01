@@ -42,6 +42,11 @@ For spindle was retained original drive. There was no problem with regulator tun
 ![IMG-20221112-WA0003](https://github.com/user-attachments/assets/7f65a79f-37d5-410a-ac0e-c2a08f534725)
 
 After one week of measuring and finding problem in old axes drive, we made decision with my friend - for reliable operation of milling center is necessary use new drives for all axes! 
-Selected drives was Digitax M751 from Control tecn
+Selected drives were Digitax M751 from Control Techniques, one drive for one axis. I selected this drive because I have experience with this from project with robotic workplace.
+
+Picture of axes drives on new mount in machine:
+
+
+Since the servomotors remained original, it was necessary to design HW inerface for adjusting voltage levels between servomotor position sensor and Digitax position interface - so for connection between servomotor and Digitax. dopisat cast o tom, ze tieto signaly spracovaval aj linuxcnc a islo o comutacne signaly + inkrement. enkoder
   
 Retrofit old Brother TC221 three axis milling center with 10 pockets in tool changer. Full HW and SW design (LinuxCNC + MESA cards, Digitax M751 drives for all axis, design of PCB for old motor sensor emulation, operator panel with buttons, etc...)
