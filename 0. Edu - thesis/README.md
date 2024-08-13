@@ -8,7 +8,7 @@ B.Sc. - The use of digital filters in the control of a synchronous motor with pe
 
 Input and output waveforms of the second order filter for different smoothing factors:
 
-![bc3](https://github.com/user-attachments/assets/78e77133-5282-4834-a4ea-64a5f4c5d516)
+  ![bc3](https://github.com/user-attachments/assets/78e77133-5282-4834-a4ea-64a5f4c5d516)
 
 Actual speed (blue) and speed from Kalman filter (red) of PMSM:
 
