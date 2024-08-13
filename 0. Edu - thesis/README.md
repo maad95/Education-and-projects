@@ -8,9 +8,11 @@ Developed parts: FOC for synchronous motor with permanent magnets, first order f
 ![bc1](https://github.com/user-attachments/assets/654701bb-3bc1-4a38-ae3f-7f041be538bb)
 
 Input and output waveforms of the second order filter for different smoothing factors:
-  ![bc3](https://github.com/user-attachments/assets/78e77133-5282-4834-a4ea-64a5f4c5d516)
+
+![bc3](https://github.com/user-attachments/assets/78e77133-5282-4834-a4ea-64a5f4c5d516)
 
 Actual speed (blue) and speed from Kalman filter (red) of PMSM:
+
 ![bc4](https://github.com/user-attachments/assets/d817cbd0-1c85-414f-9f10-89d4b1e9f665)
 
 **M.Sc. - Implementation of the EtherCAT communication bus in a modular converter for actuators** 
@@ -22,13 +24,16 @@ Modular servo drive:
   ![ing1](https://github.com/user-attachments/assets/62abd578-153c-491d-9981-cd9c10c14601)
 
 EtherCAT module:
+
 ![ing2](https://github.com/user-attachments/assets/55a701a6-640e-46ed-a3d9-edbf53b88c6c)
 
-  Schematic with SPI signals and designed interface:
+Schematic with SPI signals and designed interface:
+  
 ![ing3](https://github.com/user-attachments/assets/4066e829-e543-4b31-8a32-e4d99e9d4c63)
 ![ing4](https://github.com/user-attachments/assets/27cadef5-9410-4987-a4e5-de20b98cf2a8)
 
 Converter + module:
+
 ![ing5](https://github.com/user-attachments/assets/684ec1ad-5343-435e-8464-715e246b7b4a)
 
 Master <-> Slave communication:
