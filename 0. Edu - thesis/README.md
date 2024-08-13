@@ -51,13 +51,14 @@ Planar transformer from ANSYS simulation:
 Real planar transformer: 
 ![phd4](https://github.com/user-attachments/assets/525c7adb-ac64-4810-ada6-7d81eb948b0e)
 
-N port multiport converter:
+N port (module) multiport converter:
 ![phd5](https://github.com/user-attachments/assets/f3e72597-7acc-4502-ac0b-87e851ca8cbd)
 
 Real multiport converter with three ports:
 ![phd6](https://github.com/user-attachments/assets/27335a9f-bc29-4f98-ab83-f2b06d1f6d07)
 
 Waveforms (all currents) from three port converter, ip1 (port 1) and ip2 (port 2) as a supply currents, ip3 (port 3) as a sum of ip1 + ip2 and as load current:
+
 ![phd7](https://github.com/user-attachments/assets/0dc762cc-d6c9-4cb0-bedd-0f24fa90b085)
 
 
