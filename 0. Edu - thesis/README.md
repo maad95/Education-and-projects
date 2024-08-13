@@ -1,5 +1,6 @@
 B.Sc. - The use of digital filters in the control of a synchronous motor with permanent magnets
-  Developed parts: FOC for synchronous motor with permanent magnets, first order filter, second order filter, moving average and Kalman filter
+
+Developed parts: FOC for synchronous motor with permanent magnets, first order filter, second order filter, moving average and Kalman filter
 
   Power converter based on TMS320F28377:
 
