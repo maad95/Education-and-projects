@@ -46,6 +46,14 @@ Selected drives were Digitax M751 from Control Techniques, one drive for one axi
 
 Picture of axes drives on new mount in machine:
 
-Since the servomotors remained original, it was necessary to design HW inerface for adjusting voltage levels between servomotor position sensor and Digitax position interface - so for connection between servomotor and Digitax. Type of old servomotors was Sanyo Denki BL Super Servo, these servomotors were equipped with double position sensor - first part of hall sensor for commutation and second part of inceremental encoder for precise position. Signals from incremental encoder were processed not only in Digitax servo drive, but also in LinuxCNC hardware layer. These signals represented actual position of servomotor for LinuxCNC interpolator (position controller). Due to the aforementioned, HW interface must connect servomotor with Digitax (both commutation + incremental signals) and also servomotor with MESA 7i77 card (incremental signals). One of requirements was, that case of HW interface was designed for 
+Since the servomotors remained original, it was necessary to design HW inerface for adjusting voltage levels between servomotor position sensor and Digitax position interface - so for connection between servomotor and Digitax. Type of old servomotors was Sanyo Denki BL Super Servo, these servomotors were equipped with old (double) position sensor - first part consist of hall sensors for commutation angle and second part consist of inceremental encoder for precise position. Signals from incremental encoder were processed not only in Digitax servo drive, but also in LinuxCNC by MESA card. These signals represented actual position of servomotor for LinuxCNC interpolator (position controller). Due to the aforementioned, designed HW interface must connect servomotor position sensor with Digitax (both commutation + incremental signals) and also servomotor position sensor with MESA 7i77 card (incremental signals). One of requirements was that HW interface case will be pluggable to Digitax as original module for this servo drive. 
+
+Pictures of 3D HW interface PCB, 3D PCB in case plugged in servo drive, real HW interface and plugged to Digitax:
+
+![SensorBoard](https://github.com/user-attachments/assets/bdebf918-c118-4805-960f-c7c86519be3d)
+![menic+sensor_board](https://github.com/user-attachments/assets/00b9f92e-fda7-4e2e-9075-bcc76f3df7fc)
+![all_axis](https://github.com/user-attachments/assets/0e84b518-543a-4cdb-8e07-b2d81aa4a912)
+![SensorBoard_with_cables](https://github.com/user-attachments/assets/3ff1135c-ea91-41f5-9e22-22ff722d7b7c)
+
   
 Retrofit old Brother TC221 three axis milling center with 10 pockets in tool changer. Full HW and SW design (LinuxCNC + MESA cards, Digitax M751 drives for all axis, design of PCB for old motor sensor emulation, operator panel with buttons, etc...)
