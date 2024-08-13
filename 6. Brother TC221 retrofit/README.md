@@ -46,6 +46,12 @@ Selected drives were Digitax M751 from Control Techniques, one drive for one axi
 
 Picture of axes drives on new mount in machine:
 
+MESA cards (7i92TM and 7i77):
+![IMG-20230606-WA0000](https://github.com/user-attachments/assets/063e0916-ff75-40d2-8f17-cd98b6101a66)
+
+Designed operator panel:
+
+
 Since the servomotors remained original, it was necessary to design HW inerface for adjusting voltage levels between servomotor position sensor and Digitax position interface - so for connection between servomotor and Digitax. Type of old servomotors was Sanyo Denki BL Super Servo, these servomotors were equipped with old (double) position sensor - first part consist of hall sensors for commutation angle and second part consist of inceremental encoder for precise position. Signals from incremental encoder were processed not only in Digitax servo drive, but also in LinuxCNC by MESA card. These signals represented actual position of servomotor for LinuxCNC interpolator (position controller). Due to the aforementioned, designed HW interface must connect servomotor position sensor with Digitax (both commutation + incremental signals) and also servomotor position sensor with MESA 7i77 card (incremental signals). One of requirements was that HW interface case will be pluggable to Digitax as original module for this servo drive. 
 
 Pictures of 3D HW interface PCB, 3D PCB in case plugged in servo drive, real HW interface and plugged to Digitax:
@@ -55,5 +61,13 @@ Pictures of 3D HW interface PCB, 3D PCB in case plugged in servo drive, real HW 
 ![all_axis](https://github.com/user-attachments/assets/0e84b518-543a-4cdb-8e07-b2d81aa4a912)
 ![SensorBoard_with_cables](https://github.com/user-attachments/assets/3ff1135c-ea91-41f5-9e22-22ff722d7b7c)
 
-  
-Retrofit old Brother TC221 three axis milling center with 10 pockets in tool changer. Full HW and SW design (LinuxCNC + MESA cards, Digitax M751 drives for all axis, design of PCB for old motor sensor emulation, operator panel with buttons, etc...)
+In addition, there were more challanges:
+  - Edit 7i92TM firmware for connection 7i37 to port P1
+  - Correctly definition of LinuxCNC INI file for milling center -> definition of kinemmatics, max./min. dimensions for all axes, max./default/min. speed of axes, PID values of position controller, etc....
+  - Correctly definition of LinuxCNC HAL file for milling center -> definition all used components, signal connections between all components
+  - Processing signals from potentiomenters (feed rate, spindle speed), MPG jog wheel, buttons, etc...
+  - Programming new features for existing components or programming completely new components (in C language) [especially for tool changer and lubrication]
+
+Project is actually in final phase, tests of all machine subsystems are currently underway. Position controllers, reactions to commands in G code and the overall functionality of the machine are being tested.
+
+
