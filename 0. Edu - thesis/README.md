@@ -21,7 +21,7 @@ Developed parts: Simple HW for connection between EtherCat module and modular se
 
 Modular servo drive:
 
-  ![ing1](https://github.com/user-attachments/assets/62abd578-153c-491d-9981-cd9c10c14601)
+![ing1](https://github.com/user-attachments/assets/62abd578-153c-491d-9981-cd9c10c14601)
 
 EtherCAT module:
 
@@ -37,6 +37,7 @@ Converter + module:
 ![ing5](https://github.com/user-attachments/assets/684ec1ad-5343-435e-8464-715e246b7b4a)
 
 Master <-> Slave communication:
+
 ![ing6](https://github.com/user-attachments/assets/fbca4978-8b46-4790-aa10-ea89cdb821c8)
 
 
@@ -49,12 +50,15 @@ Planar transformer from ANSYS simulation:
 ![phd3](https://github.com/user-attachments/assets/f080df6d-2d0b-48fe-9e1b-8444028f5dc9)
 
 Real planar transformer: 
+
 ![phd4](https://github.com/user-attachments/assets/525c7adb-ac64-4810-ada6-7d81eb948b0e)
 
 N port (module) multiport converter:
+
 ![phd5](https://github.com/user-attachments/assets/f3e72597-7acc-4502-ac0b-87e851ca8cbd)
 
 Real multiport converter with three ports:
+
 ![phd6](https://github.com/user-attachments/assets/27335a9f-bc29-4f98-ab83-f2b06d1f6d07)
 
 Waveforms (all currents) from three port converter, ip1 (port 1) and ip2 (port 2) as a supply currents, ip3 (port 3) as a sum of ip1 + ip2 and as load current:
