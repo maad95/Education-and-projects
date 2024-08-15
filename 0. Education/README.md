@@ -64,7 +64,7 @@ Real multiport converter with three ports:
 
 ![phd6](https://github.com/user-attachments/assets/27335a9f-bc29-4f98-ab83-f2b06d1f6d07)
 
-Waveforms (all currents) from three port converter, ip1 (port 1) and ip2 (port 2) as a supply currents, ip3 (port 3) as a sum of ip1 + ip2 and as load current:
+Waveforms (all currents) from three port converter, i<sub>P1</sub> (port 1) and i<sub>P2</sub> (port 2) as a supply currents, i<sub>P3</sub> (port 3) as a sum of i<sub>P1</sub> + i<sub>P2</sub> and as load current:
 
 ![phd7](https://github.com/user-attachments/assets/0dc762cc-d6c9-4cb0-bedd-0f24fa90b085)
 
