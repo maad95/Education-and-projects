@@ -15,6 +15,8 @@ Actual speed (blue) and speed from Kalman filter (red) of PMSM:
 
 ![bc4](https://github.com/user-attachments/assets/d817cbd0-1c85-414f-9f10-89d4b1e9f665)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **M.Sc. - Implementation of the EtherCAT communication bus in a modular converter for actuators** 
 
 Developed parts: Simple HW for connection between EtherCat module and modular servo drive. SW for transfer data between EtherCat module (Based on Beckhoff IC + TI TMS320 DSP)
@@ -40,6 +42,7 @@ Master <-> Slave communication:
 
 ![ing6](https://github.com/user-attachments/assets/fbca4978-8b46-4790-aa10-ea89cdb821c8)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Ph.D. - Control of power converters in multiport connection**
 
