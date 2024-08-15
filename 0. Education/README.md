@@ -1,4 +1,4 @@
-**B.Sc. - The use of digital filters in the control of a synchronous motor with permanent magnets** 
+## **B.Sc. - The use of digital filters in the control of a synchronous motor with permanent magnets**
 
 Developed parts: FOC for synchronous motor with permanent magnets, first order filter, second order filter, moving average and Kalman filter
 
@@ -17,7 +17,7 @@ Actual speed (blue) and speed from Kalman filter (red) of PMSM:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**M.Sc. - Implementation of the EtherCAT communication bus in a modular converter for actuators** 
+## **M.Sc. - Implementation of the EtherCAT communication bus in a modular converter for actuators** 
 
 Developed parts: Simple HW for connection between EtherCat module and modular servo drive. SW for transfer data between EtherCat module (Based on Beckhoff IC + TI TMS320 DSP)
 
@@ -44,7 +44,7 @@ Master <-> Slave communication:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Ph.D. - Control of power converters in multiport connection**
+## **Ph.D. - Control of power converters in multiport connection**
 
 Developed parts: Design of planar transformer based on required parameters of multiport converter. SW for converter for power control and communication between other ports. (Based on TI TMS 320)
 
