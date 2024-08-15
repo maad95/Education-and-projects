@@ -28,7 +28,7 @@ Other projects during education:
   - Team member for project "Sport tester" - testing the speed and skills of athletes
   
 
-Projects as self-employed/freelancer:
+Some projects as self-employed/freelancer:
 
   - H-Bridge for department exercises: Development of power part of H-Bridge (60V/10A). Controlled by RT-Lab. Developed for university department.
   - Vision system for observation: Development of supply and control board for vision system consist of three elements. Development HW and SW part for communication between system elements by UART, RS422, RS232. (Based on ATMEL MCU)
