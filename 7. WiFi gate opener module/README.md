@@ -1,4 +1,4 @@
-Design and implementation of a WiFi module for opening the entrance gate.The result was to be a module that can be connected (and integrated) into the control unit of gate drives from various manufacturers. 
+Design and implementation of a WiFi module for opening the entrance gate. The result was to be a module that can be connected (and integrated) into the control unit of gate drives from various manufacturers. 
 The module should be able to connect to a WiFi network at a maximum distance of 30 meters, and the gate should be controlled from anywhere in the world.
 
 The requirements for the module were therefore defined as follows:
