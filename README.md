@@ -40,4 +40,4 @@ Some projects as self-employed/freelancer:
   - WiFi opener module for entrance gate. Designed based on custom hardware and open-source software. Wide WiFi network range. Remote access to control from anywhere in the world.
 
 
-*** <ins>Detailed information about projects in folders.</ins> ***
+***<ins>Detailed information about projects in folders.</ins>***
