@@ -1,11 +1,11 @@
 Design and implementation of a WiFi module for opening the entrance gate.The result was to be a module that can be connected (and integrated) into the control unit of gate drives from various manufacturers. 
-The module should be able to connect to a WiFi network at a maximum distance of 50 meters, and the gate should be controlled from anywhere in the world.
+The module should be able to connect to a WiFi network at a maximum distance of 30 meters, and the gate should be controlled from anywhere in the world.
 
 The requirements for the module were therefore defined as follows:
   - Small dimensions, approximately 50x50x30 mm
   - Power supply voltage 12/24 V
   - 2x NO relay output, 2x input 12/24 V
-  - Connection to a WiFi network with a maximum distance of 50 meters
+  - Connection to a WiFi network with a maximum distance of 30 meters
   - Android/iOS application for hardware control
 
 To meet the requirements mentioned above, an analysis of available hardware was done, focusing on size, connectivity, and the ability to implement software. The hardware used was the ESP32-WROOM-02U device, which allows an external WiFi antenna and has enough processing power. 
