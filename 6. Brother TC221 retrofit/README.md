@@ -2,6 +2,7 @@ Development of both, hardware (electrical) and software part for retrofit old Br
 The initial idea was to replace only the control system (old Brother system) with respect the old servomotors and servo drives. 
 
 First picture of center at home:
+
 ![IMG-20221107-WA0000](https://github.com/user-attachments/assets/da44bedb-ecaa-45ca-a4a1-afe26e9db1b9)
 
 After center come home, the sequence of works was chosen as follows:
