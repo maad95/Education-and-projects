@@ -37,6 +37,7 @@ Some projects as self-employed/freelancer:
   - SW for merge video from two cameras and send it via RTSP stream to PC. (Based on HiSilicon SOC)
   - Robotic workplace for packaging snack bars to boxes - team member. Calculation of the electric motor and drive for the conveyor, programming and simulation verification of the robotic arm Fanuc LR Mate 200iD
   - [still in progress] Retrofit old Brother TC221 three axis milling center with 10 pockets in tool changer. Full HW and SW design (LinuxCNC + MESA cards, Digitax M751 drives for all axis, design of PCB for old motor sensor emulation, operator panel with buttons, etc...)
+  - WiFi opener module for entrance gate. Designed based on custom hardware and open-source software. Wide WiFi network range. Remote access to control from anywhere in the world.
 
 
 Detailed information about projects in folders.
