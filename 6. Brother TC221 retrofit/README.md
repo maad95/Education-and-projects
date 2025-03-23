@@ -46,11 +46,16 @@ After one week of measuring and finding problem in old axes drive, we made decis
 Selected drives were Digitax M751 from Control Techniques, one drive for one axis. I selected this drive because I have experience with this from project with robotic workplace.
 
 Picture of axes drives on new mount in machine:
+![photo_2](https://github.com/user-attachments/assets/82131adb-7934-4b67-8e6c-13570168ca9f)
+
 
 MESA cards (7i92TM and 7i77):
 ![IMG-20230606-WA0000](https://github.com/user-attachments/assets/063e0916-ff75-40d2-8f17-cd98b6101a66)
 
 Designed operator panel:
+![photo_8](https://github.com/user-attachments/assets/04bf2384-a658-4e85-9668-ea0498b4b8c4)
+![photo_4](https://github.com/user-attachments/assets/a4d1b1c3-fdb9-47ae-a84d-89f1e83be712)
+
 
 
 Since the servomotors remained original, it was necessary to design HW inerface for adjusting voltage levels between servomotor position sensor and Digitax position interface - so for connection between servomotor and Digitax. Type of old servomotors was Sanyo Denki BL Super Servo, these servomotors were equipped with old (double) position sensor - first part consist of hall sensors for commutation angle and second part consist of inceremental encoder for precise position. Signals from incremental encoder were processed not only in Digitax servo drive, but also in LinuxCNC by MESA card. These signals represented actual position of servomotor for LinuxCNC interpolator (position controller). Due to the aforementioned, designed HW interface must connect servomotor position sensor with Digitax (both commutation + incremental signals) and also servomotor position sensor with MESA 7i77 card (incremental signals). One of requirements was that HW interface case will be pluggable to Digitax as original module for this servo drive. 
@@ -70,5 +75,12 @@ In addition, there were more challanges:
   - Programming new features for existing components or programming completely new components (in C language) [especially for tool changer and lubrication]
 
 Project is actually in final phase, tests of all machine subsystems are currently underway. Position controllers, reactions to commands in G code and the overall functionality of the machine are being tested.
+
+
+https://github.com/user-attachments/assets/4519f5f7-28d0-4c38-b577-16755bda3ffa
+https://github.com/user-attachments/assets/5d414fb4-6235-4787-83ee-530790d299e8
+https://github.com/user-attachments/assets/a35b18bf-4a8a-4477-a551-527530016e6d
+![photo_1](https://github.com/user-attachments/assets/5467b4b4-6795-4371-92aa-b6e1ecce39dc)
+
 
 
