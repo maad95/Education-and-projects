@@ -76,9 +76,10 @@ In addition, there were more challanges:
 Project is actually in final phase, tests of all machine subsystems are currently underway. Position controllers, reactions to commands in G code and the overall functionality of the machine are being tested.
 
 
-https://github.com/user-attachments/assets/4519f5f7-28d0-4c38-b577-16755bda3ffa
 https://github.com/user-attachments/assets/5d414fb4-6235-4787-83ee-530790d299e8
+
 https://github.com/user-attachments/assets/a35b18bf-4a8a-4477-a551-527530016e6d
+
 ![photo_1](https://github.com/user-attachments/assets/5467b4b4-6795-4371-92aa-b6e1ecce39dc)
 
 
